@@ -1,9 +1,3 @@
-module github.com/gitpod/mycli
+module jayasinghe.org/monkey_interpreter
 
-go 1.16
-
-require (
-	github.com/mitchellh/go-homedir v1.1.0
-	github.com/spf13/cobra v1.1.3
-	github.com/spf13/viper v1.7.1
-)
+go 1.17
